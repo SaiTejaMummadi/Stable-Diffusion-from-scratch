@@ -1,2 +1,2 @@
 # Stable_Diffusion_from_scratch
-Diffusion based models from scratch in PyTorch
+Implementation of RunwayML's Stable Diffusion model from scratch in PyTorch
